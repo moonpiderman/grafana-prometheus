@@ -10,3 +10,6 @@
 - `docker-compose -f docker-compose-with-exporter.yml up -d`
   - `-f` : 해당 옵션을 지정하지 않으면 `docker-compose.yml` 을 읽는다.
   - `up -d` : 백그라운드로의 실행을 의미한다.
+
+### Grafana에 Redis-export 대시보드 확인하기
+- 해당 프로젝트의 json 파일을 Grafana의 대시보드에 추가하면 볼 수 있다.
