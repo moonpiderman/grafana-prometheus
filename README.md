@@ -13,3 +13,4 @@
 
 ### Grafana에 Redis-export 대시보드 확인하기
 - 해당 프로젝트의 json 파일을 Grafana의 대시보드에 추가하면 볼 수 있다.
+<img width="2335" alt="image" src="https://github.com/moonpiderman/grafana-prometheus/assets/70942197/d2aaeacf-2d63-48bc-82fc-f734b4a45179">
